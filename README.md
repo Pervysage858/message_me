@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+hello people i am revising the basics of creating a project also learning about websockets....lets get into it.
